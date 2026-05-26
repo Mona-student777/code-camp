@@ -2,5 +2,12 @@ h1{
        font-size:24px;
        color:red;
        background-color:antiquewhite;
-       
+
+}
+p{
+     font-size:50px;
+     color:aqua;
+     background-color:blanchedalmond;
+     font-family:Verdana, Tahoma, sans-serif;
+     
 }
